@@ -15,7 +15,7 @@ This Python script implements CRUD (Create, Read, Update, Delete) operations for
 - Python 3.x installed on your machine.
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/your-username/library-borrowing-script.git`
+1. Clone the repository: `https://github.com/AnnurAfgoni/library-borrowing-script.git`
 2. Navigate to the project directory: `cd library-borrowing-script`
 
 ### Usage
